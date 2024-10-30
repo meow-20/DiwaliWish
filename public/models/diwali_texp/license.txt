@@ -1,0 +1,11 @@
+Model Information:
+* title:	Diwali Texp
+* source:	https://sketchfab.com/3d-models/diwali-texp-6c1b0b0c02f3480a8c02c493bfbe7332
+* author:	shreyas_ (https://sketchfab.com/shreyas1999)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Diwali Texp" (https://sketchfab.com/3d-models/diwali-texp-6c1b0b0c02f3480a8c02c493bfbe7332) by shreyas_ (https://sketchfab.com/shreyas1999) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

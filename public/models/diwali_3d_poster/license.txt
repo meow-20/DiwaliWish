@@ -1,0 +1,11 @@
+Model Information:
+* title:	Diwali 3D Poster
+* source:	https://sketchfab.com/3d-models/diwali-3d-poster-a266d2074d694988ac97fc05cff51d0c
+* author:	agneya (https://sketchfab.com/agneya)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Diwali 3D Poster" (https://sketchfab.com/3d-models/diwali-3d-poster-a266d2074d694988ac97fc05cff51d0c) by agneya (https://sketchfab.com/agneya) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
