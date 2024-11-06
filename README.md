@@ -16,7 +16,7 @@ A vibrant 3D Diwali wish website designed with **Three.js** to create an immersi
 - **HTML & CSS**: For structuring and styling the website.
 
 ## 🎉 Demo
-Experience the live demo at [Click Here](happydiwaliiii.netlify.app) (Replace this link with the actual URL once deployed)
+Experience the live demo at [Click Here](https://happydiwaliiii.netlify.app/)
 
 ## 📂 Project Structure
 
